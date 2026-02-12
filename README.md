@@ -23,7 +23,7 @@ Here, you’ll find my solutions, experiments, and notes for each week of the Zo
 ## 📂 Repository Structure
 ```
 de-zoomcamp-michaji/
-├── 01_docker-terraform/        # Docker, PostgreSQL, and GCP setup
+├── 01_docker_terraform/        # Docker, PostgreSQL, and GCP setup
 ├── 02_workflow_orchestration/  # Airflow, Prefect, and workflow automation
 ├── 03_data_warehouse/          # BigQuery, Partitioning, and Clustering
 ├── 04_analytics_engineering/   # dbt, Transformations, and Data Modeling
